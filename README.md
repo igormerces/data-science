@@ -7,7 +7,7 @@
 
 # Data Science
 
-Este repositório é dedicado ao compartilhamento de projetos na área de *Data Science*. Ele funciona como meu portfólio, sendo atualizado com projetos desenvolvidos ao longo do meu aprendizado.
+Este repositório é dedicado ao compartilhamento de projetos na área de *Data Science*, sendo atualizado com projetos desenvolvidos ao longo do meu aprendizado.
 
 Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas, combinar pensamento crítico e atenção aos detalhes para ampliar a capacidade no desenvolvimento de projetos e resolução de problemas na área acadêmica e profissional.
 
