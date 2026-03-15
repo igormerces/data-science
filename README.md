@@ -9,7 +9,7 @@
 
 Este repositório é dedicado ao compartilhamento de projetos na área de *Data Science*, sendo atualizado com projetos desenvolvidos ao longo do meu aprendizado.
 
-Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas, combinar pensamento crítico e atenção aos detalhes para ampliar a capacidade no desenvolvimento de projetos e resolução de problemas na área acadêmica e profissional.
+Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas e combinar pensamento crítico e atenção aos detalhes, para ampliar minha capacidade no desenvolvimento de projetos e na resolução de problemas nas áreas acadêmica e profissional.
 
 **Trilha de aprendizado:** Python, Manipulação e Visualização de Dados, Machine Learning, Deed Learning.
 
